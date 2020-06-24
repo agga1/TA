@@ -22,5 +22,8 @@ Implementation of different text algorithms
 ## Lab 6 - Dictionary of basic factors
 - KMR algorithm
 
+## Lab 7 - Regex matching
+- Regex matching algorithm implemented by converting regex to reverse polish notation, and then to __non-deterministic finite automata__.  
+  Handling operators: ?, *, ., [], ().
 
 
